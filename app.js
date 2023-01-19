@@ -24,7 +24,7 @@ window.addEventListener('load', () => {
       entry.style.transitionDelay = i + 's';
       i += 0.25;
     })
-  }, 3750 * 3) // 3750
+  }, 0) // 3750
 })
 
 LOADING.addEventListener('click', () => {
