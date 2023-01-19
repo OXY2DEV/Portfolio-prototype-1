@@ -27,17 +27,17 @@ body {
 
 @font-face {
   font-family: Acquire;
-  src: url("/font/Aquire.otf");
+  src: url("./font/Aquire.otf");
 }
 
 @font-face {
   font-family: Roboto;
-  src: url("/font/RobotoPro-Regular.ttf");
+  src: url("./font/RobotoPro-Regular.ttf");
 }
 
 @font-face {
   font-family: SourceCode;
-  src: url("/font/SourceCodePro-Regular.ttf");
+  src: url("./font/SourceCodePro-Regular.ttf");
 }
 
 @keyframes Spin {
